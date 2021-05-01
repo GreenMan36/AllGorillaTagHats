@@ -1,3 +1,4 @@
+[![Discord Link](https://raw.githubusercontent.com/GreenMan36/AllGorillaTagHats/main/AllHats.png)](https://discord.gg/GC4hsUaC72)
 # All Gorilla tag Modding Discord Hats
 > Note that some hats might have been removed or changed to mitigate conflicts that might result in errors in-game.
 > The curated folder is there to serve users with the hats thought to be of highest quality and good standard. Things like filesize, default material, sound and firstperson visibility are checked. 
