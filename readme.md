@@ -1,3 +1,5 @@
+Join our Discord: [https://discord.gg/GC4hsUaC72](https://discord.gg/GC4hsUaC72)
+(Please scroll down and read.)
 [![Discord Link](https://raw.githubusercontent.com/GreenMan36/AllGorillaTagHats/main/AllHats.png)](https://discord.gg/GC4hsUaC72)
 # All Gorilla tag Modding Discord Hats
 > Note that some hats might have been removed or changed to mitigate conflicts that might result in errors in-game.
